@@ -18,3 +18,9 @@ body {
     width: 150px;
     border-radius: 50%;
 }
+
+.Kartu-profil button{
+    width: 50px;
+    background-color: black;
+    color: white;
+}
